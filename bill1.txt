@@ -1,0 +1,8 @@
+Comanda numarul:1s-a efectuat cu succes!
+Date Client: 
+ Nume:Ilies Oana 
+ Email:iliesOannna@gmail.com
+ Age20
+Ati comandat 20 de scun
+Total plata: 4000 (20*200)
+Comanda se va livra la adresa:str Aleea Muscel nr 14

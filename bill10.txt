@@ -1,0 +1,8 @@
+Comanda numarul:10 s-a efectuat cu succes!
+Date Client: 
+ Nume:Voldoc Bogdan 
+ Email:valdocbog7@yahoo.com
+ Age:29
+Ati comandat 100 de cirese
+Total plata: 6000 (100*60)
+Comanda se va livra la adresa:str Observator nr 32

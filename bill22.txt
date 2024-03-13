@@ -1,0 +1,8 @@
+Comanda numarul:22s-a efectuat cu succes!
+Date Client: 
+ Nume:test 
+ Email:test@yahoo.com
+ Age12
+Ati comandat 30 de masina
+Total plata: 30000 (30*1000)
+Comanda se va livra la adresa:fhhd
